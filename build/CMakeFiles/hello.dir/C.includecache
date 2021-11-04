@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doctry/HW/hello.c
+lib/hello.h
+/home/doctry/HW/lib/hello.h
+
+/home/doctry/HW/lib/hello.h
+

@@ -1,0 +1,5 @@
+/home/doctry/HW/build/CMakeFiles/rebuild_cache.dir
+/home/doctry/HW/build/CMakeFiles/edit_cache.dir
+/home/doctry/HW/build/CMakeFiles/message-so.dir
+/home/doctry/HW/build/CMakeFiles/message_objs.dir
+/home/doctry/HW/build/CMakeFiles/hello.dir
